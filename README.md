@@ -33,7 +33,7 @@
 
 <div align="center">
   
-[![portfolio]("")]()
+[![portfolio]("")](https://valenzalazar3.github.io/PortFolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinzalazar3/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valenzalazar3/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valenzalazar3@gmail.com)
@@ -56,8 +56,8 @@
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hector-granucci&theme=swift&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hector-granucci&theme=swift&hide_border=true&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=valenzalazar3&show_icons=true&locale=en" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=valenzalazar3&show_icons=true&locale=en&layout=compact" />
 </p>
 
 ---
