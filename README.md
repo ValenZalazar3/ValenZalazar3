@@ -65,3 +65,4 @@
 <p align="center">
 Thank you for visiting my profile! I hope you find my work interesting, and feel free to explore my projects in this repository.
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valenzalazar3&" alt="diazadriel0" /></p>
