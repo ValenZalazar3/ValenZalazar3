@@ -1,6 +1,6 @@
  <h1 align="center">Hello! I'm Valen Zalazar 👋</h1>
 
-<h3 align="center">A Full Stack developer with experience in various technologies and tools</h3>
+<h3 align="center">A Frontend developer with experience in various technologies and tools</h3>
 
 ---
 
@@ -33,7 +33,7 @@
 
 <div align="center">
   
-[![portfolio]("")](https://valenzalazar3.github.io/PortFolio/)
+[![portfolio]("")]([https://valenzalazar3.github.io/PortFolio/](https://portfolio-valentin-zalazar.netlify.app/))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinzalazar3/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valenzalazar3/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valenzalazar3@gmail.com)
